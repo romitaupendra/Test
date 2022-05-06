@@ -10,3 +10,6 @@ sklearn
 boto3
 services
 service
+google-cloud
+google-cloud-bigquery
+google-cloud-storage
